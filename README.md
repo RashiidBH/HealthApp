@@ -2,6 +2,7 @@
 The health tracker app aims to provide users with a comprehensive tool to monitor their health and wellness.   With increasing focus on health, this app going to focus in tracking user’s health.
 
 Obj:
+
 •	To develop a user interface that allows easy navigation and data entry.
 •	To enable users to track physical activities, dietary, sleeping pattern.
 •	Providing recommendations and personalized feedback.
