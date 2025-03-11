@@ -1,7 +1,0 @@
-List<UserClass> userList = new List<UserClass>();
- int password;
- public Form1()
- {
-     InitializeComponent(); 
-     passwordTextBox.UseSystemPasswordChar = true;
- }
